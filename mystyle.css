@@ -1,0 +1,23 @@
+h1 {
+  color: Lavender;
+    text-shadow: 3px 1px Blue;
+}
+p {
+    color: Pink;
+}
+
+ h2 {
+   color:AntiqueWhite;
+}
+ul {
+	color: Beige;
+}
+body {
+    background-image: url("large.jpg");
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-right: 70px;
+    margin-left: 40px;
+}
